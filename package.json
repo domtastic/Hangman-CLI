@@ -1,0 +1,23 @@
+{
+  "name": "Hangman-CLI",
+  "version": "1.0.0",
+  "description": "Hangman game played through the command-line interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domtastic/Hangman-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domtastic/Hangman-CLI/issues"
+  },
+  "homepage": "https://github.com/domtastic/Hangman-CLI#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
